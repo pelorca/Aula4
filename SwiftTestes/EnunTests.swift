@@ -12,7 +12,7 @@ enum NewEnun {
     
     case SUCCESS([String:String])
     case FAIL(String)
-    
+  
 }
 
 
@@ -21,7 +21,7 @@ enum Color:String{
     case BLUE = "BLUE"
     case GREEN = "GREEN"
     case YELLOW =  "YELLOW"
-    case UNKNOWN = "UNKNOWN"
+ 
     
     var descriptio:String {
         switch self {
@@ -33,8 +33,6 @@ enum Color:String{
             return "GREEN"
         case .YELLOW:
             return "YELLOW"
-        default:
-            return "BLACK"
         }
     }
 }
@@ -61,8 +59,6 @@ class EnunTests: XCTestCase {
                     XCTAssertEqual(x, "")
                 case .FAIL(let x):
                     XCTAssertEqual(x, "Erro")
-                default:
-                    break
             }
             
         }

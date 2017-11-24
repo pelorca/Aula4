@@ -13,8 +13,10 @@
 		1D0DFB7A1FC89951002547BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D0DFB791FC89951002547BF /* Assets.xcassets */; };
 		1D0DFB7D1FC89951002547BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D0DFB7B1FC89951002547BF /* LaunchScreen.storyboard */; };
 		1D0DFB881FC89952002547BF /* Aula4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0DFB871FC89952002547BF /* Aula4Tests.swift */; };
+		1D2D18011FC8C28A0027FE02 /* ExtensionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2D18001FC8C28A0027FE02 /* ExtensionTests.swift */; };
 		1D4E8EDF1FC89B99005BBDCD /* StructsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4E8EDE1FC89B99005BBDCD /* StructsTests.swift */; };
 		1D4E8EE71FC8B2B3005BBDCD /* EnunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4E8EE61FC8B2B3005BBDCD /* EnunTests.swift */; };
+		1D4E8EE91FC8C1EC005BBDCD /* ExtensionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4E8EE81FC8C1EC005BBDCD /* ExtensionTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,10 +47,12 @@
 		1D0DFB831FC89951002547BF /* Aula4Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Aula4Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D0DFB871FC89952002547BF /* Aula4Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aula4Tests.swift; sourceTree = "<group>"; };
 		1D0DFB891FC89952002547BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D2D18001FC8C28A0027FE02 /* ExtensionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionTests.swift; sourceTree = "<group>"; };
 		1D4E8EDC1FC89B99005BBDCD /* SwiftTestes.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTestes.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D4E8EDE1FC89B99005BBDCD /* StructsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructsTests.swift; sourceTree = "<group>"; };
 		1D4E8EE01FC89B99005BBDCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D4E8EE61FC8B2B3005BBDCD /* EnunTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EnunTests.swift; path = SwiftTestes/EnunTests.swift; sourceTree = SOURCE_ROOT; };
+		1D4E8EE81FC8C1EC005BBDCD /* ExtensionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ExtensionTests.swift; path = SwiftTestes/ExtensionTests.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,7 @@
 		1D0DFB861FC89951002547BF /* Aula4Tests */ = {
 			isa = PBXGroup;
 			children = (
+				1D4E8EE81FC8C1EC005BBDCD /* ExtensionTests.swift */,
 				1D4E8EE61FC8B2B3005BBDCD /* EnunTests.swift */,
 				1D0DFB871FC89952002547BF /* Aula4Tests.swift */,
 				1D0DFB891FC89952002547BF /* Info.plist */,
@@ -122,6 +127,7 @@
 		1D4E8EDD1FC89B99005BBDCD /* SwiftTestes */ = {
 			isa = PBXGroup;
 			children = (
+				1D2D18001FC8C28A0027FE02 /* ExtensionTests.swift */,
 				1D4E8EDE1FC89B99005BBDCD /* StructsTests.swift */,
 				1D4E8EE01FC89B99005BBDCD /* Info.plist */,
 			);
@@ -272,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D0DFB881FC89952002547BF /* Aula4Tests.swift in Sources */,
+				1D4E8EE91FC8C1EC005BBDCD /* ExtensionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D2D18011FC8C28A0027FE02 /* ExtensionTests.swift in Sources */,
 				1D4E8EDF1FC89B99005BBDCD /* StructsTests.swift in Sources */,
 				1D4E8EE71FC8B2B3005BBDCD /* EnunTests.swift in Sources */,
 			);
