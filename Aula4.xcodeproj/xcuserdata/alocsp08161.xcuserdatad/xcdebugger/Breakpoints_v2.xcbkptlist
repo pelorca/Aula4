@@ -2,4 +2,161 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTestes/OverloadsTests.swift"
+            timestampString = "533507023.265391"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "&#xd7;(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTestes/OverloadsTests.swift"
+            timestampString = "533507023.265763"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "&#xd7;(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTestes.OverloadsTests.__deallocating_deinit"
+                  moduleName = "SwiftTestes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alocsp08161/Desktop/Aula4/SwiftTestes/OverloadsTests.swift"
+                  timestampString = "533506269.131199"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTestes.OverloadsTests.__allocating_init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; SwiftTestes.OverloadsTests"
+                  moduleName = "SwiftTestes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alocsp08161/Desktop/Aula4/SwiftTestes/OverloadsTests.swift"
+                  timestampString = "533506269.133527"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTestes.OverloadsTests.init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; SwiftTestes.OverloadsTests"
+                  moduleName = "SwiftTestes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alocsp08161/Desktop/Aula4/SwiftTestes/OverloadsTests.swift"
+                  timestampString = "533506269.13578"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTestes.OverloadsTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; SwiftTestes.OverloadsTests"
+                  moduleName = "SwiftTestes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alocsp08161/Desktop/Aula4/SwiftTestes/OverloadsTests.swift"
+                  timestampString = "533506269.137498"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTestes.OverloadsTests.init(selector: ObjectiveC.Selector) -&gt; SwiftTestes.OverloadsTests"
+                  moduleName = "SwiftTestes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alocsp08161/Desktop/Aula4/SwiftTestes/OverloadsTests.swift"
+                  timestampString = "533506269.139093"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTestes.OverloadsTests.__allocating_init() -&gt; SwiftTestes.OverloadsTests"
+                  moduleName = "SwiftTestes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alocsp08161/Desktop/Aula4/SwiftTestes/OverloadsTests.swift"
+                  timestampString = "533506269.140516"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTestes.OverloadsTests.init() -&gt; SwiftTestes.OverloadsTests"
+                  moduleName = "SwiftTestes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alocsp08161/Desktop/Aula4/SwiftTestes/OverloadsTests.swift"
+                  timestampString = "533506269.142029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTestes/OverloadsTests.swift"
+            timestampString = "533507023.266028"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "++(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

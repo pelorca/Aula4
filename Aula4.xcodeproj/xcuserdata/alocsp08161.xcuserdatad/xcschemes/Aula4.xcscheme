@@ -48,6 +48,26 @@
                BlueprintName = "SwiftTestes"
                ReferencedContainer = "container:Aula4.xcodeproj">
             </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "DesafioTests">
+               </Test>
+               <Test
+                  Identifier = "EnunTests">
+               </Test>
+               <Test
+                  Identifier = "ExtensionTests">
+               </Test>
+               <Test
+                  Identifier = "GenericTests">
+               </Test>
+               <Test
+                  Identifier = "ProtocolTests">
+               </Test>
+               <Test
+                  Identifier = "StructsTests">
+               </Test>
+            </SkippedTests>
          </TestableReference>
       </Testables>
       <MacroExpansion>
