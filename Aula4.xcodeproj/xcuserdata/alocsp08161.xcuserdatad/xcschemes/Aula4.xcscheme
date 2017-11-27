@@ -62,6 +62,9 @@
                   Identifier = "GenericTests">
                </Test>
                <Test
+                  Identifier = "OverloadsTests">
+               </Test>
+               <Test
                   Identifier = "ProtocolTests">
                </Test>
                <Test
