@@ -50,6 +50,12 @@
             </BuildableReference>
             <SkippedTests>
                <Test
+                  Identifier = "ArcTests">
+               </Test>
+               <Test
+                  Identifier = "CuriosityTests">
+               </Test>
+               <Test
                   Identifier = "DesafioTests">
                </Test>
                <Test
@@ -57,9 +63,6 @@
                </Test>
                <Test
                   Identifier = "ExtensionTests">
-               </Test>
-               <Test
-                  Identifier = "GenericTests">
                </Test>
                <Test
                   Identifier = "OverloadsTests">

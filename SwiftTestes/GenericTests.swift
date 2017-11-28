@@ -8,9 +8,16 @@
 
 import XCTest
 
-class Stack<T> {
+protocol ArrayDataStructure {
+     associatedtype T
+    var itens: [T] {get}
+}
+
+
+class Stack<T>: ArrayDataStructure {
     
-    var itens = Array<T>()
+    var itens = [T]( )
+    
     var peek: T? {
         return itens.last
     }

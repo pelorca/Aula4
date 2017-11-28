@@ -22,6 +22,7 @@
 		1D4E8EE71FC8B2B3005BBDCD /* EnunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4E8EE61FC8B2B3005BBDCD /* EnunTests.swift */; };
 		1D4E8EE91FC8C1EC005BBDCD /* ExtensionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4E8EE81FC8C1EC005BBDCD /* ExtensionTests.swift */; };
 		1D9130501FCCD4AC0049A77A /* CuriosityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D91304F1FCCD4AC0049A77A /* CuriosityTests.swift */; };
+		1DC967681FCDE416009D640E /* ArcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC967671FCDE416009D640E /* ArcTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		1D4E8EE61FC8B2B3005BBDCD /* EnunTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EnunTests.swift; path = SwiftTestes/EnunTests.swift; sourceTree = SOURCE_ROOT; };
 		1D4E8EE81FC8C1EC005BBDCD /* ExtensionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ExtensionTests.swift; path = SwiftTestes/ExtensionTests.swift; sourceTree = SOURCE_ROOT; };
 		1D91304F1FCCD4AC0049A77A /* CuriosityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CuriosityTests.swift; sourceTree = "<group>"; };
+		1DC967671FCDE416009D640E /* ArcTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 		1D4E8EDD1FC89B99005BBDCD /* SwiftTestes */ = {
 			isa = PBXGroup;
 			children = (
+				1DC967671FCDE416009D640E /* ArcTests.swift */,
 				1D91304F1FCCD4AC0049A77A /* CuriosityTests.swift */,
 				1D3A12641FCC9FC2007DBDF5 /* OverloadsTests.swift */,
 				1D3A12621FCC94F6007DBDF5 /* GenericTests.swift */,
@@ -306,6 +309,7 @@
 				1D4E8EDF1FC89B99005BBDCD /* StructsTests.swift in Sources */,
 				1D4E8EE71FC8B2B3005BBDCD /* EnunTests.swift in Sources */,
 				1D2D18031FC8D10D0027FE02 /* DesafioTests.swift in Sources */,
+				1DC967681FCDE416009D640E /* ArcTests.swift in Sources */,
 				1D9130501FCCD4AC0049A77A /* CuriosityTests.swift in Sources */,
 				1D3A12651FCC9FC2007DBDF5 /* OverloadsTests.swift in Sources */,
 				1D3A12611FCC896B007DBDF5 /* ProtocolTests.swift in Sources */,
